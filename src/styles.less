@@ -1,1 +1,16 @@
 @import "../node_modules/uikit/src/less/uikit.theme.less";
+
+@color-default: #484848;
+@search-placeholder-color: @color-default;
+@offcanvas-bar-background: #fff;
+@offcanvas-bar-color-mode: none;
+
+.uk-search-input::placeholder {
+  font-weight: bold;
+}
+
+.hook-navbar-nav-item() {
+  text-transform: none;
+  color: @color-default;
+  font-weight: 500;
+}

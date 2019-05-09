@@ -1,4 +1,5 @@
 # AirbnbClone
+The pratice project with Udemy course [Airbnb Clone with Angular](https://www.udemy.com/airbnb-clone-with-angular/).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
